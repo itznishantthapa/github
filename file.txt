@@ -5,3 +5,5 @@ gjfsg
 this is the feature branch------
 
 this is another line in the feature 1
+
+this is the line in the feature 2
