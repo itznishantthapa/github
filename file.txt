@@ -1,3 +1,7 @@
 the quick brown fox jumps over the lazy dog.asdbfasdbj
-ashjdkfhjiasdfiu
+ashjdkfhjiasdfiuhfasjdhfoiahpfi 
 gjfsg
+
+this is the feature branch------
+
+this is another line in the feature 1
